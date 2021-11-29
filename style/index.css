@@ -30,3 +30,7 @@ body    {
     background: #ffffff80;
     border-radius: 8px;
 }
+.main a {
+    font-size: 25px;
+    padding: 1%;
+}
